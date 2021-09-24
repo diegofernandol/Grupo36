@@ -20,11 +20,11 @@ namespace Ganaderia.App.Consola
         {
             var ganadero = new Ganadero
             {
-                Nombres = "Andres",
-                Apellidos = "Herrera",
-                NumeroTelefono = "3148596563",
-                Direccion = "Kra 4 #45-12",
-                Correo = "sergio.mintic@ucaldas.edu.co",
+                Nombres = "Diego",
+                Apellidos = "Londoño",
+                NumeroTelefono = "3141234567",
+                Direccion = "Kra 56 # 9-60",
+                Correo = "diegofernan@hotmail.com",
                 Contrasena = "123456",
                 Latitude = 7455,
                 Longitud = 5333
